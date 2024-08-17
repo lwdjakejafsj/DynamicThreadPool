@@ -1,0 +1,3 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  io.luowei.middleware.sdk.config.DynamicThreadPoolAutoConfig

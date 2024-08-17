@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dynamic-thread-pool
+  profiles:
+    active: dev
+#    active: prod
